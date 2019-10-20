@@ -1,0 +1,17 @@
+{
+    "name": "programerweb",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "keywords": [],
+    "author": "",
+    "licence": "ISC",
+    "homepage": "http://makarywagdy.github.io/programerweb",
+    "dependencies": {
+        "gh-pages": "1.2.0"
+    }
+
+}
